@@ -1,2 +1,2 @@
 # browser
- A simple java script for opening a website
+ A simple  script for opening a browser
